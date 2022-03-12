@@ -1,0 +1,8 @@
+{
+  "name": "product-import-portal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kenlee2003/product-import-portal.git",
+  "author": "Ken Lee <ken.lee@matizon.com>",
+  "license": "MIT"
+}
